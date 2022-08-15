@@ -262,11 +262,11 @@ p{
 .work-title{
     color: #e74c3c;
     padding-block: 0.4em;
-    font-size: 50px;
+    font-size: 25px;
 }
 .work-semi{
     color: #cfcfcf;
-    font-size: 1.1rem;
+    font-size: 20px;
     font-weight: 280;
 }
 
@@ -275,11 +275,11 @@ p{
         flex-direction: column;
     }
     .work-title{
-        font-size: 1.2rem;
+        font-size: 25px;
         font-weight: 380;
     }
     .work-semi{
-        font-size: 1.0rem;
+        font-size: 15px;
         font-weight: 180;
     }
 }
