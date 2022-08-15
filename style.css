@@ -258,6 +258,7 @@ p{
     color: white;
     padding: 1em;
 }
+
 .work-title{
     color: #e74c3c;
     padding-block: 0.4em;
@@ -265,7 +266,8 @@ p{
 }
 .work-semi{
     color: #cfcfcf;
-    font-weight: 400;
+    font-size: 1.1rem;
+    font-weight: 280;
 }
 
 @media only screen and (max-width: 600px) {
@@ -273,10 +275,11 @@ p{
         flex-direction: column;
     }
     .work-title{
-        font-size: 1.0rem;
+        font-size: 1.2rem;
     }
     .work-semi{
-        font-weight: 300;
+        font-size: 1.0rem;
+        font-weight: 180;
     }
 }
 
